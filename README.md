@@ -9,7 +9,7 @@
 
 ---
 
-Merhaba millet! Ben Zonbi, klavye başında dirilmiş bir **Full Stack Developer**'ım. 🧟‍♂️  Kullanıcı dostu, performanslı ve **güvenli** web uygulamaları geliştirmeye bayılıyorum. Projelerimde hem ön yüzdeki güzellikleri hem de arka yüzdeki karmaşık mantıkları etkin bir şekilde yönetirim. Yani anlayacağınız, her telden çalıyorum! 🎸
+Selamunaleykum gardaş 📿! Ben Zonbi, klavye başında dirilmiş bir **Full Stack Developer**'ım. 🧟‍♂️  Kullanıcı dostu, performanslı ve **güvenli** web uygulamaları geliştirmeye bayılıyorum. Projelerimde hem ön yüzdeki güzellikleri hem de arka yüzdeki karmaşık mantıkları etkin bir şekilde yönetirim. Yani anlayacağınız, her telden çalıyorum! 🎸
 
 ---
 
