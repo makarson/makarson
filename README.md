@@ -1,4 +1,5 @@
-[![zonbi](https://raw.githubusercontent.com/makarson/makarson/refs/heads/main/zonbi.png)](https://zonbi.tr/)
+<p align="center"><img src="https://raw.githubusercontent.com/makarson/makarson/refs/heads/main/zonbi.png" alt="zonbi" width="62%"></p>
+
 # 👋 Merhaba! Ben Zonbi (💯 🇹🇷 Tamamen Yerli ve Milli 😀) 
 ## Full Stack Developer (ve biraz da dijital ölümsüz)
 
