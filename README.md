@@ -20,10 +20,6 @@
 
 ---
 
-### // CONNECT
-[Web](https://zonbi.tr) • [GitHub](https://github.com/makarson) • [GitLab](https://gitlab.com/makarson) • [Email](mailto:boo@zonbi.tr)
-
-
 > *"Simplicity is the ultimate sophistication."*
 
 
